@@ -1,7 +1,7 @@
 from crewai import LLM
 
 def get_llm() -> LLM:
-    api_key = "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"
+    api_key = ""
     base_url = "https://integrate.api.nvidia.com/v1"
     model = "nvidia/llama-3.3-nemotron-super-49b-v1.5"
 
